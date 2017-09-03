@@ -12,3 +12,6 @@
 ![Alt text](/capture/8.png)
 <pre><code> $rosrun remoteControl_pkg remoteControl </code></pre>
 ![Alt text](/capture/10.png)
+
+
+## 2. Turtlebot
