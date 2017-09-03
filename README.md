@@ -3,7 +3,7 @@
 
 ## 1. Server Computer
 ![Alt text](/capture/1.png)
-<pre><code> $ifconfig </code></pre>
+<pre>input <code> $ifconfig </code></pre>
 ![Alt text](/capture/3.png)
 <pre><code> $gedit ~/.bashrc </code></pre>
 ![Alt text](/capture/5.png)
