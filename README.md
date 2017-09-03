@@ -19,11 +19,17 @@
 Terminal-1 ( Connect Turtlebot And OpenCR ) 
 <pre><code> $rosrun rosserial_python serial_node.py _port:=/dev/ttyACM0 </code></pre>
 
-Terminal-2 (Run LineTrace)
+Terminal-2 ( Run LineTrace )
 <pre><code> $rosrun opencv_tutorial LineTrace </code></pre>
+![Alt text](/capture/lineTrace.png)
 
-Terminal-3 (Run BarAndLight)
+Terminal-3 ( Run BarAndLight )
 <pre><code> $rosrun opencv_tutorial BarAndLight </code></pre>
+![Alt text](/capture/BarAndLight.png)
 
-Terminal-4 (Run ParkZone)
+Terminal-4 ( Run ParkZone )
 <pre><code> $rosrun opencv_tutorial ParkZone </code></pre>
+![Alt text](/capture/ParkZone.png)
+
+## 3. OpenCR Upload 
+turtlebot_openCR/turtlebot/turtlebot.ino  : File Upload
