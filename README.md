@@ -1,7 +1,7 @@
 # BonobonoTurtlebot
 보노보노팀의 터틀봇 주행
 
-## 1. Server 
+## 1. Server Computer
 ![Alt text](/capture/1.png)
 <pre><code> $ifconfig </code></pre>
 ![Alt text](/capture/3.png)
