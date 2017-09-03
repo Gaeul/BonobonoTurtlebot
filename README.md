@@ -15,3 +15,15 @@
 
 
 ## 2. Turtlebot
+
+Terminal-1 ( Connect Turtlebot And OpenCR ) 
+<pre><code> $rosrun rosserial_python serial_node.py _port:=/dev/ttyACM0 </code></pre>
+
+Terminal-2 (Run LineTrace)
+<pre><code> $rosrun opencv_tutorial LineTrace </code></pre>
+
+Terminal-3 (Run BarAndLight)
+<pre><code> $rosrun opencv_tutorial BarAndLight </code></pre>
+
+Terminal-4 (Run ParkZone)
+<pre><code> $rosrun opencv_tutorial ParkZone </code></pre>
